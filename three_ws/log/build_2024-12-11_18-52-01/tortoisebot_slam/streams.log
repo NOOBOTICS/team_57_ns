@@ -1,0 +1,50 @@
+[0.233s] Invoking command in '/home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_slam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake /home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/tortoisebot_slam -DCMAKE_INSTALL_PREFIX=/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam
+[0.301s] -- The C compiler identification is GNU 11.4.0
+[0.380s] -- The CXX compiler identification is GNU 11.4.0
+[0.390s] -- Detecting C compiler ABI info
+[0.475s] -- Detecting C compiler ABI info - done
+[0.484s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.484s] -- Detecting C compile features
+[0.485s] -- Detecting C compile features - done
+[0.489s] -- Detecting CXX compiler ABI info
+[0.604s] -- Detecting CXX compiler ABI info - done
+[0.617s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.617s] -- Detecting CXX compile features
+[0.618s] -- Detecting CXX compile features - done
+[0.628s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.907s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.314s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.847s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.847s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.848s] -- Added test 'lint_cmake' to check CMake code style
+[1.851s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.862s] -- Added test 'xmllint' to check XML markup files
+[1.865s] -- Configuring done
+[1.866s] -- Generating done
+[1.871s] -- Build files have been written to: /home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_slam
+[1.933s] Invoked command in '/home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_slam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake /home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/tortoisebot_slam -DCMAKE_INSTALL_PREFIX=/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam
+[1.933s] Invoking command in '/home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_slam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake --build /home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_slam -- -j16 -l16
+[2.067s] Invoked command in '/home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_slam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake --build /home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_slam -- -j16 -l16
+[2.070s] Invoking command in '/home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_slam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake --install /home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_slam
+[2.081s] -- Install configuration: ""
+[2.082s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/tortoisebot_slam/launch
+[2.082s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/tortoisebot_slam/launch/cartographer.launch.py
+[2.082s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/tortoisebot_slam/config
+[2.082s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/tortoisebot_slam/config/ekf.yaml
+[2.083s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/tortoisebot_slam/config/slam.lua
+[2.083s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/ament_index/resource_index/package_run_dependencies/tortoisebot_slam
+[2.084s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/ament_index/resource_index/parent_prefix_path/tortoisebot_slam
+[2.084s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/tortoisebot_slam/environment/ament_prefix_path.sh
+[2.084s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/tortoisebot_slam/environment/ament_prefix_path.dsv
+[2.085s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/tortoisebot_slam/environment/path.sh
+[2.085s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/tortoisebot_slam/environment/path.dsv
+[2.085s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/tortoisebot_slam/local_setup.bash
+[2.086s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/tortoisebot_slam/local_setup.sh
+[2.086s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/tortoisebot_slam/local_setup.zsh
+[2.086s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/tortoisebot_slam/local_setup.dsv
+[2.087s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/tortoisebot_slam/package.dsv
+[2.088s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/ament_index/resource_index/packages/tortoisebot_slam
+[2.088s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/tortoisebot_slam/cmake/tortoisebot_slamConfig.cmake
+[2.088s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/tortoisebot_slam/cmake/tortoisebot_slamConfig-version.cmake
+[2.088s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_slam/share/tortoisebot_slam/package.xml
+[2.092s] Invoked command in '/home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_slam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake --install /home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_slam

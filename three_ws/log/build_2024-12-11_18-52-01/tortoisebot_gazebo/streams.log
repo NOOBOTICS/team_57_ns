@@ -1,0 +1,53 @@
+[0.241s] Invoking command in '/home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake /home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/tortoisebot_gazebo -DCMAKE_INSTALL_PREFIX=/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo
+[0.306s] -- The C compiler identification is GNU 11.4.0
+[0.371s] -- The CXX compiler identification is GNU 11.4.0
+[0.380s] -- Detecting C compiler ABI info
+[0.459s] -- Detecting C compiler ABI info - done
+[0.471s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.472s] -- Detecting C compile features
+[0.472s] -- Detecting C compile features - done
+[0.477s] -- Detecting CXX compiler ABI info
+[0.587s] -- Detecting CXX compiler ABI info - done
+[0.599s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.600s] -- Detecting CXX compile features
+[0.600s] -- Detecting CXX compile features - done
+[0.611s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.876s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.200s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.735s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.743s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.746s] -- Added test 'lint_cmake' to check CMake code style
+[1.757s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.758s] -- Added test 'xmllint' to check XML markup files
+[1.774s] -- Configuring done
+[1.785s] -- Generating done
+[1.785s] -- Build files have been written to: /home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_gazebo
+[1.858s] Invoked command in '/home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake /home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/tortoisebot_gazebo -DCMAKE_INSTALL_PREFIX=/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo
+[1.860s] Invoking command in '/home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake --build /home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_gazebo -- -j16 -l16
+[1.978s] Invoked command in '/home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake --build /home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_gazebo -- -j16 -l16
+[1.988s] Invoking command in '/home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake --install /home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_gazebo
+[2.001s] -- Install configuration: ""
+[2.001s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/gazebo
+[2.001s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/gazebo/tortoisebot_materials.gazebo
+[2.002s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/gazebo/tortoisebot_plugins.gazebo
+[2.002s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/gazebo/tortoisebot_physics.gazebo
+[2.002s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/launch
+[2.012s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/launch/gazebo.launch.py
+[2.012s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/worlds
+[2.017s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/worlds/room2.sdf
+[2.017s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/ament_index/resource_index/package_run_dependencies/tortoisebot_gazebo
+[2.017s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/ament_index/resource_index/parent_prefix_path/tortoisebot_gazebo
+[2.017s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/environment/ament_prefix_path.sh
+[2.017s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/environment/ament_prefix_path.dsv
+[2.018s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/environment/path.sh
+[2.018s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/environment/path.dsv
+[2.018s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/local_setup.bash
+[2.018s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/local_setup.sh
+[2.018s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/local_setup.zsh
+[2.018s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/local_setup.dsv
+[2.018s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/package.dsv
+[2.018s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/ament_index/resource_index/packages/tortoisebot_gazebo
+[2.018s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/cmake/tortoisebot_gazeboConfig.cmake
+[2.018s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/cmake/tortoisebot_gazeboConfig-version.cmake
+[2.018s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_gazebo/share/tortoisebot_gazebo/package.xml
+[2.061s] Invoked command in '/home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake --install /home/nobel/team57/team_57_ns/three_ws/build/tortoisebot_gazebo

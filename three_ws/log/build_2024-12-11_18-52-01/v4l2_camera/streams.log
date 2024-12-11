@@ -1,0 +1,104 @@
+[0.232s] Invoking command in '/home/nobel/team57/team_57_ns/three_ws/build/v4l2_camera': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake /home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/v4l2_camera -DCMAKE_INSTALL_PREFIX=/home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera
+[0.307s] -- The C compiler identification is GNU 11.4.0
+[0.375s] -- The CXX compiler identification is GNU 11.4.0
+[0.385s] -- Detecting C compiler ABI info
+[0.471s] -- Detecting C compiler ABI info - done
+[0.483s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.483s] -- Detecting C compile features
+[0.483s] -- Detecting C compile features - done
+[0.487s] -- Detecting CXX compiler ABI info
+[0.582s] -- Detecting CXX compiler ABI info - done
+[0.590s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.591s] -- Detecting CXX compile features
+[0.591s] -- Detecting CXX compile features - done
+[0.599s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.854s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.152s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.192s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[1.360s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.384s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.419s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.463s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.523s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.693s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.713s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[1.834s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[1.842s] -- Looking for pthread.h
+[2.016s] -- Looking for pthread.h - found
+[2.016s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.123s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.128s] -- Found Threads: TRUE  
+[2.203s] -- Found rclcpp_components: 16.0.11 (/opt/ros/humble/share/rclcpp_components/cmake)
+[2.248s] -- Found camera_info_manager: 3.1.10 (/opt/ros/humble/share/camera_info_manager/cmake)
+[2.317s] -- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+[2.336s] -- Found image_transport: 3.1.10 (/opt/ros/humble/share/image_transport/cmake)
+[2.391s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.520s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.520s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/v4l2_camera/include>
+[2.520s] -- Configured cppcheck exclude dirs and/or files: 
+[2.522s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.522s] -- Configured cpplint exclude dirs and/or files: 
+[2.523s] -- Added test 'lint_cmake' to check CMake code style
+[2.525s] -- Added test 'uncrustify' to check C / C++ code style
+[2.525s] -- Configured uncrustify additional arguments: 
+[2.526s] -- Added test 'xmllint' to check XML markup files
+[2.529s] -- Configuring done
+[2.544s] -- Generating done
+[2.550s] -- Build files have been written to: /home/nobel/team57/team_57_ns/three_ws/build/v4l2_camera
+[2.559s] Invoked command in '/home/nobel/team57/team_57_ns/three_ws/build/v4l2_camera' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake /home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/v4l2_camera -DCMAKE_INSTALL_PREFIX=/home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera
+[2.560s] Invoking command in '/home/nobel/team57/team_57_ns/three_ws/build/v4l2_camera': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake --build /home/nobel/team57/team_57_ns/three_ws/build/v4l2_camera -- -j16 -l16
+[2.620s] [ 12%] [32mBuilding CXX object CMakeFiles/v4l2_camera.dir/src/parameters.cpp.o[0m
+[2.622s] [ 25%] [32mBuilding CXX object CMakeFiles/v4l2_camera.dir/src/v4l2_camera.cpp.o[0m
+[2.622s] [ 37%] [32mBuilding CXX object CMakeFiles/v4l2_camera.dir/src/v4l2_camera_device.cpp.o[0m
+[9.924s] [ 50%] [32m[1mLinking CXX shared library libv4l2_camera.so[0m
+[10.248s] [ 50%] Built target v4l2_camera
+[10.270s] [ 75%] [32mBuilding CXX object CMakeFiles/v4l2_camera_compose_test.dir/src/v4l2_camera_compose_test.cpp.o[0m
+[10.270s] [ 75%] [32mBuilding CXX object CMakeFiles/v4l2_camera_node.dir/src/v4l2_camera_node.cpp.o[0m
+[12.066s] [ 87%] [32m[1mLinking CXX executable v4l2_camera_node[0m
+[12.373s] [ 87%] Built target v4l2_camera_node
+[15.023s] [100%] [32m[1mLinking CXX executable v4l2_camera_compose_test[0m
+[15.436s] [100%] Built target v4l2_camera_compose_test
+[15.444s] Invoked command in '/home/nobel/team57/team_57_ns/three_ws/build/v4l2_camera' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake --build /home/nobel/team57/team_57_ns/three_ws/build/v4l2_camera -- -j16 -l16
+[15.445s] Invoking command in '/home/nobel/team57/team_57_ns/three_ws/build/v4l2_camera': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake --install /home/nobel/team57/team_57_ns/three_ws/build/v4l2_camera
+[15.450s] -- Install configuration: ""
+[15.450s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/include
+[15.450s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/include/v4l2_camera
+[15.450s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/include/v4l2_camera/fourcc.hpp
+[15.450s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/include/v4l2_camera/image_format.hpp
+[15.450s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/include/v4l2_camera/v4l2_camera.hpp
+[15.450s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/include/v4l2_camera/v4l2_camera_device.hpp
+[15.450s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/include/v4l2_camera/visibility_control.h
+[15.450s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/include/v4l2_camera/control.hpp
+[15.450s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/include/v4l2_camera/pixel_format.hpp
+[15.450s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/include/v4l2_camera/parameters.hpp
+[15.450s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/lib/libv4l2_camera.so
+[15.454s] -- Set runtime path of "/home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/lib/libv4l2_camera.so" to ""
+[15.454s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/lib/v4l2_camera/v4l2_camera_node
+[15.454s] -- Set runtime path of "/home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/lib/v4l2_camera/v4l2_camera_node" to ""
+[15.454s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/lib/v4l2_camera/v4l2_camera_compose_test
+[15.456s] -- Set runtime path of "/home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/lib/v4l2_camera/v4l2_camera_compose_test" to ""
+[15.456s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/environment/library_path.sh
+[15.456s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/environment/library_path.dsv
+[15.456s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/ament_index/resource_index/package_run_dependencies/v4l2_camera
+[15.456s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/ament_index/resource_index/parent_prefix_path/v4l2_camera
+[15.456s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/environment/ament_prefix_path.sh
+[15.456s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/environment/ament_prefix_path.dsv
+[15.456s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/environment/path.sh
+[15.456s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/environment/path.dsv
+[15.456s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/local_setup.bash
+[15.457s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/local_setup.sh
+[15.457s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/local_setup.zsh
+[15.457s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/local_setup.dsv
+[15.457s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/package.dsv
+[15.457s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/ament_index/resource_index/packages/v4l2_camera
+[15.457s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/ament_index/resource_index/rclcpp_components/v4l2_camera
+[15.457s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/cmake/export_v4l2_cameraExport.cmake
+[15.457s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/cmake/export_v4l2_cameraExport-noconfig.cmake
+[15.457s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/cmake/ament_cmake_export_include_directories-extras.cmake
+[15.457s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/cmake/ament_cmake_export_targets-extras.cmake
+[15.457s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/cmake/ament_cmake_export_libraries-extras.cmake
+[15.457s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/cmake/ament_cmake_export_dependencies-extras.cmake
+[15.457s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/cmake/v4l2_cameraConfig.cmake
+[15.457s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/cmake/v4l2_cameraConfig-version.cmake
+[15.457s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/v4l2_camera/share/v4l2_camera/package.xml
+[15.459s] Invoked command in '/home/nobel/team57/team_57_ns/three_ws/build/v4l2_camera' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake --install /home/nobel/team57/team_57_ns/three_ws/build/v4l2_camera

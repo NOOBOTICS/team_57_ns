@@ -1,0 +1,109 @@
+[0.230s] Invoking command in '/home/nobel/team57/team_57_ns/three_ws/build/ydlidar_ros2_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake /home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/ydlidar_ros2_driver -DCMAKE_INSTALL_PREFIX=/home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver
+[0.301s] -- The C compiler identification is GNU 11.4.0
+[0.366s] -- The CXX compiler identification is GNU 11.4.0
+[0.376s] -- Detecting C compiler ABI info
+[0.461s] -- Detecting C compiler ABI info - done
+[0.473s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.473s] -- Detecting C compile features
+[0.474s] -- Detecting C compile features - done
+[0.478s] -- Detecting CXX compiler ABI info
+[0.588s] -- Detecting CXX compiler ABI info - done
+[0.599s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.599s] -- Detecting CXX compile features
+[0.600s] -- Detecting CXX compile features - done
+[0.606s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.877s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.088s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[1.235s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.259s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.306s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.359s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.417s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.585s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.604s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[1.716s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[1.757s] -- Looking for pthread.h
+[1.948s] -- Looking for pthread.h - found
+[1.948s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.092s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.092s] -- Found Threads: TRUE  
+[2.175s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[2.217s] -- Found visualization_msgs: 4.2.4 (/opt/ros/humble/share/visualization_msgs/cmake)
+[2.244s] -- Found std_srvs: 4.2.4 (/opt/ros/humble/share/std_srvs/cmake)
+[2.286s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.427s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.429s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.430s] -- Configured cppcheck include dirs: /home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/ydlidar_ros2_driver/src
+[2.430s] -- Configured cppcheck exclude dirs and/or files: 
+[2.432s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.432s] -- Configured cpplint exclude dirs and/or files: 
+[2.433s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.434s] -- Added test 'lint_cmake' to check CMake code style
+[2.435s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.437s] -- Added test 'uncrustify' to check C / C++ code style
+[2.437s] -- Configured uncrustify additional arguments: 
+[2.438s] -- Added test 'xmllint' to check XML markup files
+[2.441s] -- Configuring done
+[2.451s] -- Generating done
+[2.456s] -- Build files have been written to: /home/nobel/team57/team_57_ns/three_ws/build/ydlidar_ros2_driver
+[2.465s] Invoked command in '/home/nobel/team57/team_57_ns/three_ws/build/ydlidar_ros2_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake /home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/ydlidar_ros2_driver -DCMAKE_INSTALL_PREFIX=/home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver
+[2.467s] Invoking command in '/home/nobel/team57/team_57_ns/three_ws/build/ydlidar_ros2_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake --build /home/nobel/team57/team_57_ns/three_ws/build/ydlidar_ros2_driver -- -j16 -l16
+[2.515s] [ 25%] [32mBuilding CXX object CMakeFiles/ydlidar_ros2_driver_node.dir/src/ydlidar_ros2_driver_node.cpp.o[0m
+[2.519s] [ 50%] [32mBuilding CXX object CMakeFiles/ydlidar_ros2_driver_client.dir/src/ydlidar_ros2_driver_client.cpp.o[0m
+[5.415s] [01m[K/home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/ydlidar_ros2_driver/src/ydlidar_ros2_driver_node.cpp:[m[K In lambda function:
+[5.415s] [01m[K/home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/ydlidar_ros2_driver/src/ydlidar_ros2_driver_node.cpp:163:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest_header[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[5.415s]   163 |     [&laser]([01;35m[Kconst std::shared_ptr<rmw_request_id_t> request_header[m[K,
+[5.416s]       |              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+[5.416s] [01m[K/home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/ydlidar_ros2_driver/src/ydlidar_ros2_driver_node.cpp:164:56:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kreq[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[5.416s]   164 |   [01;35m[Kconst std::shared_ptr<std_srvs::srv::Empty::Request> req[m[K,
+[5.416s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+[5.416s] [01m[K/home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/ydlidar_ros2_driver/src/ydlidar_ros2_driver_node.cpp:165:51:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresponse[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[5.416s]   165 |   [01;35m[Kstd::shared_ptr<std_srvs::srv::Empty::Response> response[m[K) -> bool
+[5.416s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
+[5.430s] [01m[K/home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/ydlidar_ros2_driver/src/ydlidar_ros2_driver_node.cpp:[m[K In lambda function:
+[5.430s] [01m[K/home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/ydlidar_ros2_driver/src/ydlidar_ros2_driver_node.cpp:173:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest_header[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[5.430s]   173 |     [&laser]([01;35m[Kconst std::shared_ptr<rmw_request_id_t> request_header[m[K,
+[5.430s]       |              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+[5.430s] [01m[K/home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/ydlidar_ros2_driver/src/ydlidar_ros2_driver_node.cpp:174:56:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kreq[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[5.431s]   174 |   [01;35m[Kconst std::shared_ptr<std_srvs::srv::Empty::Request> req[m[K,
+[5.431s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+[5.431s] [01m[K/home/nobel/team57/team_57_ns/three_ws/src/tortoisebot/ydlidar_ros2_driver/src/ydlidar_ros2_driver_node.cpp:175:51:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresponse[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[5.431s]   175 |   [01;35m[Kstd::shared_ptr<std_srvs::srv::Empty::Response> response[m[K) -> bool
+[5.431s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
+[7.536s] [ 75%] [32m[1mLinking CXX executable ydlidar_ros2_driver_node[0m
+[7.792s] [ 75%] Built target ydlidar_ros2_driver_node
+[9.554s] [100%] [32m[1mLinking CXX executable ydlidar_ros2_driver_client[0m
+[9.806s] [100%] Built target ydlidar_ros2_driver_client
+[9.818s] Invoked command in '/home/nobel/team57/team_57_ns/three_ws/build/ydlidar_ros2_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake --build /home/nobel/team57/team_57_ns/three_ws/build/ydlidar_ros2_driver -- -j16 -l16
+[9.819s] Invoking command in '/home/nobel/team57/team_57_ns/three_ws/build/ydlidar_ros2_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake --install /home/nobel/team57/team_57_ns/three_ws/build/ydlidar_ros2_driver
+[9.827s] -- Install configuration: ""
+[9.828s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/lib/ydlidar_ros2_driver/ydlidar_ros2_driver_node
+[9.829s] -- Set runtime path of "/home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/lib/ydlidar_ros2_driver/ydlidar_ros2_driver_node" to ""
+[9.829s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/lib/ydlidar_ros2_driver/ydlidar_ros2_driver_client
+[9.831s] -- Set runtime path of "/home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/lib/ydlidar_ros2_driver/ydlidar_ros2_driver_client" to ""
+[9.831s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/launch
+[9.831s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/launch/ydlidar_launch.py
+[9.831s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/launch/ydlidar_launch_view.py
+[9.831s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/launch/ydlidar.py
+[9.831s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params
+[9.831s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/ydlidar.yaml
+[9.831s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/startup
+[9.831s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/startup/initenv.sh
+[9.832s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/config
+[9.832s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/config/ydlidar.rviz
+[9.832s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ament_index/resource_index/package_run_dependencies/ydlidar_ros2_driver
+[9.832s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ament_index/resource_index/parent_prefix_path/ydlidar_ros2_driver
+[9.832s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/environment/ament_prefix_path.sh
+[9.832s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/environment/ament_prefix_path.dsv
+[9.832s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/environment/path.sh
+[9.832s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/environment/path.dsv
+[9.832s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/local_setup.bash
+[9.832s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/local_setup.sh
+[9.832s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/local_setup.zsh
+[9.832s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/local_setup.dsv
+[9.832s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/package.dsv
+[9.832s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ament_index/resource_index/packages/ydlidar_ros2_driver
+[9.832s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/cmake/ydlidar_ros2_driverConfig.cmake
+[9.832s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/cmake/ydlidar_ros2_driverConfig-version.cmake
+[9.832s] -- Installing: /home/nobel/team57/team_57_ns/three_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/package.xml
+[9.834s] Invoked command in '/home/nobel/team57/team_57_ns/three_ws/build/ydlidar_ros2_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nobel/team57/team_57_ns/three_ws/install/tortoisebot_control:/home/nobel/team#57/team_57_ns/three_turtle_ws/install/tortoisebot_control:/home/nobel/bharatforge_ws/install/ps6_py_control_pkg:/home/nobel/colcon_ws/install/ur5_control:/home/nobel/Drone_Related/Drones_Library/follow_drone_ws/install/sjtu_drone_bringup:/home/nobel/Gujrat_Government_Hexapod/gg_hexapod_ws/install/gg_controller:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armkin_pkg:/home/nobel/workspace_arm/IRoC_U_arm/arm_ws/install/armcam_pkg:/home/nobel/install/armcam_pkg:/home/nobel/install/arduinobot_py_examples:/home/nobel/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble PS1=\[\033[0;32m\]BotGuy:\[\033[0m\] /usr/bin/cmake --install /home/nobel/team57/team_57_ns/three_ws/build/ydlidar_ros2_driver
