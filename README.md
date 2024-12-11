@@ -18,3 +18,4 @@ For each cell in the map (map_msg.data[i]), if the cell is not unknown (i.e., no
 The merged map is then published to the /merged_map topic.
 
 
+![image](https://github.com/user-attachments/assets/b5704e86-6610-40ec-85a6-f12a67082f36)
